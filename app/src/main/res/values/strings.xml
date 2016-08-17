@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="refresh">REFRESH</string>
+    <string name="could_not_load_news">Error: Could not load news data.</string>
+    <string name="network_unavailable">Network Unavailable.</string>
+</resources>
